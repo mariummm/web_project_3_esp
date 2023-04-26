@@ -8,3 +8,31 @@
 @import url(../blocks/lead/__image/lead_image.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
+
+/*intro*/
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__paragraph/intro__paragraph.css);
+@import url(../blocks/intro/__author/intro__author.css);
+@import url(../blocks/intro/__text/intro__text.css);
+
+/*photo-grid*/
+
+@import url(../blocks/photo-grid/photo-grid.css.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item1.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item2.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item3.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item4.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item5.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item6.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item7.css);
+@import url(../blocks/photo-grid/__item1/photo-grid__item8.css);
+
+/*places*/
+
+
+/*cover*/
+
+
+/*footer*/
