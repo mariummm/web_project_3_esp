@@ -1,0 +1,8 @@
+.place {
+    color: white;
+    display: grid;
+    grid-template-columns: 460px 460px;
+    grid-template-rows: auto 460px auto;
+    grid-template-areas: "title website" "image paragraphs" "button .";
+    column-gap: 40px;
+}
