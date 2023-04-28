@@ -1,0 +1,8 @@
+.button_cover {
+    background-color: #0063D2;
+    padding: 10px;
+}
+
+.button_cover:hover {
+    background-color: #0063D2;
+}

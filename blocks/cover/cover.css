@@ -1,0 +1,10 @@
+.cover {
+    width: 1184px;
+    height: 740px;
+    color: white;
+    position: relative;
+}
+
+.cover:hover .cover_background {
+    filter: grayscale(1);
+}
