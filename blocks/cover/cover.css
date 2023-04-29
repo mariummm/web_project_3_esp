@@ -8,3 +8,15 @@
 .cover:hover .cover_background {
     filter: grayscale(1);
 }
+
+@media screen and (max-width: 1279px) and (min-width: 768px) {
+    .cover {
+        width: 768px;
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .cover {
+        width: 321.26px;
+    }
+}

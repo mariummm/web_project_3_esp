@@ -1,6 +1,17 @@
 .place__paragraph {
+    width: 484px;
     font-size: 18px;
     line-height: 29px;
     color: #FFFFFF;
     text-align: justify;
+}@media screen and (max-width: 1279px) and (min-width: 768px) {
+    .place__paragraph {
+        width: 352px;
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .place__paragraph {
+        width: 288px;
+    }
 }

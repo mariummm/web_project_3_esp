@@ -2,8 +2,9 @@
     background-image: url(./images/__background.jpg);
     position: absolute;
     height: 100%;
-    width: 100%;
+    width: 1184px;
     top: 0;
     left: 0;
     z-index: 1;
 }
+
