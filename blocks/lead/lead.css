@@ -6,14 +6,14 @@
     color: white;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1279px) {
+@media screen and (max-width: 1279px) and (min-width: 768px) {
     .lead {
         width: 720px;
     }
 }
 
-@media screen and (max-width: 767px) {
-    .lead {
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .lead  {
         width: 288px;
     }
 }
