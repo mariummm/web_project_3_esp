@@ -8,3 +8,11 @@
     margin-bottom: 40px;
     text-align: center;
 }
+
+.button_cover:hover {
+    background-color: #0063D2;
+}
+
+.button_kiev:hover {
+    background-color: #0063D2;
+}
