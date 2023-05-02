@@ -7,7 +7,7 @@
     margin-bottom: 92px;
 }
 
-.cover:hover .cover_background {
+.cover:hover .cover__background {
     filter: grayscale(1);
 }
 
@@ -16,9 +16,8 @@
     .cover{  
     width: 768px;
     }
-    .cover:hover {
-        width:768px;
-    }
+    .cover:hover .cover__background
+   
 }
 @media screen and (max-width: 320){
     .cover {
