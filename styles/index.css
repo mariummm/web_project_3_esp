@@ -41,9 +41,14 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__title/_criccieth-size/place__title_criccieth-size.css);
+@import url(../blocks/place/__title/_berea-size/place__title_berea-size.css);
+@import url(../blocks/place/__title/_scristobal-size/place__title_scristobal-size.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__artist/place__artist.css);
+@import url(../blocks/place/__artist/_editor/place__artist_editor.css);
+@import url(../blocks/place/__artist/_director/place__artist_director.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
@@ -59,3 +64,4 @@
 @import url(../blocks/cover/__background/cover__background.css);
 
 /*footer*/
+@import url(../blocks/footer/__copyright/footer__copyright.css);

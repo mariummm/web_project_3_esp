@@ -1,5 +1,5 @@
 .places {
-    width: 987px;
+    max-width: 987px;
 }
 @media screen and (max-width: 1279px) and (min-width: 768px) {
     .places {
@@ -10,7 +10,8 @@
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .places{
         width: 320px;
-     display:flex;
-     flex-direction: column;
+        display:flex;
+        flex-direction: column;
+        margin: 0 auto 0 auto;
     }
 }
