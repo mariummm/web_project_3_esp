@@ -1,0 +1,20 @@
+.place__title_criccieth-size {
+    max-width:484px;
+    font: 72px;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 768px) {
+    .place__title_criccieth-size {
+        width: 340px;
+        font-size: 42px;
+        margin-top: 0;
+
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .place__title_criccieth-size {
+        width: 288px;
+        font-size: 32px;
+    }
+}

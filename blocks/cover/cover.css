@@ -12,7 +12,7 @@
 }
 
 
-@media screen and (max-width: 1279px) and (min-width: 768px) {
+@media screen and (max-width: 1279px) and (min-width: 767px) {
     .cover{  
     width: 768px;
     }
@@ -20,7 +20,7 @@
         width:768px;
     }
 }
-@media screen and (max-width: 767px) and (min-width: 320){
+@media screen and (max-width: 320){
     .cover {
         width: 320px;
     }

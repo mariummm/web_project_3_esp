@@ -1,15 +1,17 @@
-.place__title_scristobal-size {
-    width: 460px;
+.place__artist_editor {
+    max-width: 330px;
+    font-size: 18px;
 }
-
 @media screen and (max-width: 1279px) and (min-width: 768px) {
-    .place__title_scristobal-size {
-        width: 340px;
+    .place__artist_editor {
+        width: 352px;
+       
     }
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
-    .place__title_scristobal-size {
+    .place__artist_editor {
         width: 288px;
+       
     }
 }

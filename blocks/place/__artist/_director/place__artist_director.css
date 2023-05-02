@@ -1,15 +1,17 @@
-.place__artist {
+.place__artist_director {
     max-width: 456px;
     font-size: 18px;
 }
 @media screen and (max-width: 1279px) and (min-width: 768px) {
-    .place__artist {
-        width: 295px;
+    .place__artist_director {
+        width: 352px;
+       
     }
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
-    .place__artist{
+    .place__artist_director {
         width: 288px;
+       
     }
 }
