@@ -1,0 +1,13 @@
+.place__website_scristobal-margin {
+    margin-top: 135px;
+}
+@media screen and (max-width: 1279px) and (min-width: 768px){  
+    .place__website_scristobal-margin {
+        margin-top: 235px;
+       }
+   }
+@media screen and (max-width: 767px) and (min-width: 320px) { 
+.place__website_scristobal-margin {
+    margin:0;
+   }
+}

@@ -5,29 +5,28 @@
     width: 355px;
     padding: 13px 20px;
     margin-top: 40px;
-    margin-bottom: 40px;
     text-align: center;
 }
-
-.button_cover:hover {
-    background-color: #0063D2;
-}
-
-.button_kiev:hover {
-    background-color: #0063D2;
+@media screen and (max-width: 1279px) and (min-width: 768px) {
+    .button {
+        width: 297px;
+    
+    }
 }
 @media screen and (max-width: 768px) and (min-width: 320px){  
     .button {
-          width: 288px;
+          width: 255px;
+          height: 9px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+      }
        }
-   }
+   
    @media screen and (max-width: 768px) and (min-width: 320px){  
     .button_cover:hover {
           width: 288px;
        }
    }
-   @media screen and (max-width: 768px) and (min-width: 320px){  
-    .button_kiev:hover {
-          width: 288px;
-       }
-   }
+   
