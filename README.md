@@ -6,14 +6,17 @@
   
 **Introducción**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+En este proyecto es un requisito del curso de Desarrollo web del Practicum, requisito para pasar al modulo de aprendizaje de Javascript. En esta pagina se trabajaron las tecnicas aprendidas desde el proyecto 1 y el objetivo fue aplicar Media Query.
   
 **Figma**  
   
 * [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
   
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+**Imágenes de la pagina**  
+  [Encabezado](./images/capture1.jpg)
+  [Grid](./images/capture2.jpg)
+  [Hover](./images/capture3.jpg)
+
+  Fecha de creacion: 03 de Abril del 2023
+
+ 
