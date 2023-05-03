@@ -52,16 +52,18 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/_scristobal-content/place_scristobal-content.css);
 
 
 
 /*cover*/
 
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__background/cover__background.css);
+
 
 /*footer*/
 @import url(../blocks/footer/__copyright/footer__copyright.css);

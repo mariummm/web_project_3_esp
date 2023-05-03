@@ -1,14 +1,12 @@
 .cover__background {
-    background-image: url(./images/__background.jpg);
     position: absolute;
-    height: 100%;
-    width: 1184px;
+    max-width: 1184px;
     top: 0;
     left: 0;
     z-index: 1;
 }
 @media screen and (max-width: 1279px) and (min-width: 768px) {
-    .cover__background{  
+    .cover__background {  
     width: 768px;
     }
 }

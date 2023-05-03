@@ -1,9 +1,8 @@
 .cover {
-    width: 1184px;
+    max-width: 1184px;
     height: 740px;
     color: white;
     position: relative;
-    margin-top: 40px;
     margin-bottom: 92px;
 }
 
@@ -12,11 +11,11 @@
 }
 
 
-@media screen and (max-width: 1279px) and (min-width: 767px) {
+@media screen and (max-width: 1279px) and (min-width: 768px) {
     .cover{  
     width: 768px;
     }
-    .cover:hover .cover__background
+   
    
 }
 @media screen and (max-width: 320){

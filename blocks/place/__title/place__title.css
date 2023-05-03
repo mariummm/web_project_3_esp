@@ -1,6 +1,6 @@
 .place__title {
     font-weight: 900;
-    font-size: 78px;
+    font-size: 72px;
     line-height: 76px;
     grid-area: title;
     width: 648px;
@@ -10,6 +10,7 @@
     .place__title {
         width: 340px;
         margin-top: 0;
+        font-size: 42px;
     }
 }
 
@@ -17,5 +18,6 @@
     .place__title  {
         width: 288px;
         margin-bottom: 0;
+        font-size: 32px;
     }
 } 
