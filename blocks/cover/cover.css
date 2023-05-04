@@ -6,7 +6,7 @@
 }
 
 .cover:hover .cover__background {
-    filter: grayscale(1);
+    opacity: 6;
 }
 
 
