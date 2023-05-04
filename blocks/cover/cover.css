@@ -1,29 +1,24 @@
 .cover {
-    max-width: 1184px;
-    height: 740px;
-    color: white;
-    position: relative;
+  max-width: 1184px;
+  height: 740px;
+  color: white;
+  position: relative;
 }
 
 .cover:hover .cover__background {
-    opacity: 6;
+  filter: grayscale(1);
 }
-
 
 @media screen and (max-width: 1279px) and (min-width: 768px) {
-    .cover{  
-        height: 540px;
-        width: 768px;
-    }
-   
-   
+  .cover {
+    height: 540px;
+    width: 768px;
+  }
 }
-@media screen and (max-width: 767px){
-    .cover {
-        height: 254px;
-        width: 320px;
-        margin-top: 20px;
-       
-    }
-    
+@media screen and (max-width: 767px) {
+  .cover {
+    height: 254px;
+    width: 320px;
+    margin-top: 20px;
+  }
 }
