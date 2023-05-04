@@ -1,13 +1,13 @@
 .place__url-heading {
-    width: 58px;
-    font-size: 12px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: #AAAAAA;
+  width: 206px;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #aaaaaa;
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
-    .place__url-heading {
-        width: 288px;
-    }
-} 
+  .place__url-heading {
+    width: 288px;
+  }
+}

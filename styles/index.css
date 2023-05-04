@@ -37,9 +37,6 @@
 @import url(../blocks/place/__title/_berea-size/place__title_berea-size.css);
 @import url(../blocks/place/__title/_scristobal-size/place__title_scristobal-size.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__website/_scristobal-margin/place__website_scristobal-margin.css);
-@import url(..//blocks/place/__website/_berea-margin/place__website_berea-margin.css);
-@import url(../blocks/place/__website/_muramvya-margin/place__website_muramvya-margin.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__artist/place__artist.css);
 @import url(../blocks/place/__artist/_editor/place__artist_editor.css);
