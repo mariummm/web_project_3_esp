@@ -1,37 +1,38 @@
 .place {
-    max-width: 984px;
-    color: white;
-    display: grid;
-    grid-template-columns: 386px 390px;
-    grid-template-rows: 357px 450px 94px;
-    grid-template-areas: 
+  max-width: 984px;
+  color: white;
+  display: grid;
+  grid-template-columns: 386px 390px;
+  grid-template-rows: 357px 450px 94px;
+  grid-template-areas:
     "title website"
     "image paragraphs"
     "button .";
-    column-gap: 100px;
-    padding-bottom: 30px;
+  column-gap: 100px;
+  padding-bottom: 30px;
 }
 @media screen and (max-width: 1279px) and (min-width: 768px) {
-    .place {
-        width: 720px;
-        column-gap: 0;
-    }
-    .place_scristobal-content {  
-        width: 355px;
-        height: 500px;
-}
+  .place {
+    width: 720px;
+    column-gap: 0;
+  }
+  .place_scristobal-content {
+    width: 355px;
+    height: 500px;
+  }
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
-    .place {
-        width: 320px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        column-gap: 0;
-    }
-    @media screen and (max-width: 767px) and (min-width: 320px) {
-        .place_scristobal-content {  
-            width: 288px;
-    }
+  .place {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 0;
+  }
+}
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .place_scristobal-content {
+    width: 288px;
+  }
 }
