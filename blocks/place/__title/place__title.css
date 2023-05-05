@@ -3,16 +3,16 @@
   font-size: 72px;
   line-height: 76px;
   grid-area: title;
-  width: 648px;
+  width: 630px;
   padding-top: 40px;
 }
 @media screen and (max-width: 1279px) and (min-width: 768px) {
   .place__title {
-    width: 340px;
+    width: 350px;
     margin-bottom: 20px;
     font-size: 42px;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
   }
 }
 

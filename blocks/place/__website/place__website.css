@@ -1,14 +1,15 @@
 .place__website {
   margin-top: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 @media screen and (max-width: 1279px) and (min-width: 767px) {
   .place__website {
-    margin-top: 15px;
-  }
-}
-@media screen and (max-width: 1279px) and (min-width: 768px) {
-  .place__website {
-    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    row-gap: 6px;
   }
   .place_scristobal-content {
     width: 355px;
